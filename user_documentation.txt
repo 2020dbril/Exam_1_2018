@@ -1,0 +1,8 @@
+The function works as following:
+It asks you to enter 6 grades, 3 SL numeric grades and 3 HL numeric grades.
+After entering the 6 grades, it stores the grades into variables.
+The variables are stored in two arrays, a HL array and a SL arrays
+The variables in the arrays are compared to letter grades and added to a new arrays for both SL and HL
+Then the SL numeric array is compared to a GPA scale which stores the total SL GPA scores
+The same is done for the HL numeric array however the GPA scale is weighted
+The total of both new arrays are added up and the average is found to output the GPA.
